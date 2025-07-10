@@ -10,7 +10,7 @@ This project analyzes apps from the Google Play Store dataset. It includes:
 ## 📁 How to Run
 
 1. Install requirements: `pip install -r requirements.txt`
-2. Run main script: `python src/main.py`
+2. Run main script: `python main.py`
 
 ## 📈 Technologies Used
 - Python
